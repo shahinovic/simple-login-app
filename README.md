@@ -1,5 +1,3 @@
-It looks like you have the structure of a React application with various components, features, and assets. To create a README for your app, you can provide information about the project, its structure, how to set it up, and any other relevant details. Here's a basic template:
-
 # Login system
 
 Brief description of your app.
